@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="CommonForm.ИМТ" id="4eb6c0f2-422e-4c99-9ec9-c28e069d177a" configVersion="c15d45288498bf4388d0440f76a190b200000000"/>
+		<Metadata name="CommonForm.ИМТ.Form" id="4eb6c0f2-422e-4c99-9ec9-c28e069d177a.0" configVersion="1995483d75f5d045bac5325bb9d2499b00000000"/>
+		<Metadata name="CommonPicture.ИМТ" id="57110fd0-e2c4-40f1-b051-5734651144d1" configVersion="7f93fa495b6eb64a85b82243359e433200000000"/>
+		<Metadata name="CommonPicture.ИМТ.Picture" id="57110fd0-e2c4-40f1-b051-5734651144d1.0" configVersion="5ce3307616b0ac419bc7ec3cf8b4993400000000"/>
+		<Metadata name="Configuration.ЗаписнаяКнижка" id="af04bea5-4acf-4a73-8d1c-922f8fed9bfc" configVersion="5f64216310da8243a2da3c42f26cfc6700000000"/>
+		<Metadata name="Configuration.ЗаписнаяКнижка.HomePageWorkArea" id="8d73a867-db99-49aa-a363-1256bc54e5a9.8" configVersion="b4ce03383c345648ab6d01fc97cb879f00000000"/>
+		<Metadata name="Configuration.ЗаписнаяКнижка.ManagedApplicationModule" id="8d73a867-db99-49aa-a363-1256bc54e5a9.6" configVersion="cc7ba7d4fc223b489c7fd67d45d6de3800000000"/>
+		<Metadata name="Language.Русский" id="23b86aab-b97b-4fc3-9b0a-4b2c55dc606c" configVersion="25e998bc16023a4abb269591e801e27a00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
